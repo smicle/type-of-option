@@ -1,0 +1,29 @@
+{
+  "name": "type-of-option",
+  "version": "0.0.1",
+  "description": "Defines a type that can be mixed with null and undefined.",
+  "main": "index.ts",
+  "author": {
+    "name": "smicle",
+    "email": "bhhs1270026@gn.iwasaki.ac.jp",
+    "url": "https://github.com/smicle"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smicle/type-of-option.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smicle/type-of-option/issues",
+    "email" : "bhhs1270026@gn.iwasaki.ac.jp"
+  },
+  "files": [
+    "index.ts"
+  ],
+  "keywords": [
+    "option",
+    "type",
+    "null",
+    "undefined"
+  ]
+}
