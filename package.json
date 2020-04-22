@@ -1,6 +1,6 @@
 {
   "name": "type-of-option",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Defines a type that can be mixed with null and undefined.",
   "main": "index.ts",
   "author": {
