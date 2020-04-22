@@ -15,7 +15,3 @@ import Option from 'type-of-option'
 
 const val: Option<string> = process.env.VALUE
 ```
-
-<p>
-  <a href="https://nodei.co/npm/discord.js/"><img src="https://nodei.co/npm/discord.js.png?downloads=true&stars=true" alt="npm installnfo" /></a>
-</p>
